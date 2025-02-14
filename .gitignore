@@ -24,4 +24,4 @@ go.work
 *.iml
 
 /cmd/register_account/register_account
-
+/cmd/register_account/account_credentials.json
