@@ -1,6 +1,6 @@
-module letsencrypt_utils
+module github.com/altshiftab/letsencrypt_utils
 
-go 1.23.6
+go 1.24
 
 require (
 	github.com/Motmedel/utils_go v0.0.95
